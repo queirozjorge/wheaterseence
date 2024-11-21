@@ -1,0 +1,11 @@
+server:
+  port: 3001
+
+nominatim: https://nominatim.openstreetmap.org/search
+
+ibge:
+  cities: https://servicodados.ibge.gov.br/api/v1/localidades/distritos
+
+openweather:
+  url: https://api.openweathermap.org
+  appid: 14f72c3d2f81efdf03d3c48baf41f8cf
